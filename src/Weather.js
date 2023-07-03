@@ -64,16 +64,7 @@ export default function Weather() {
           </ul>
         </div>
       </div>
-      <footer>
-        <a
-          href="https://github.com/ConnieMtimba/weather-react"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Open source code
-        </a>
-        by Conny Mtimba
-      </footer>
+    
     </div>
   );
 }
